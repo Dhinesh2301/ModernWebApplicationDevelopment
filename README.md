@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bba8fb11-b021-48ed-b58a-1b3150dbb300)# Ex01 Portfolio
+# Ex01 Portfolio
 ## Date:
 
 ## AIM
